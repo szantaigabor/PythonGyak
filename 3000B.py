@@ -14,5 +14,3 @@ Minden feladat előtt a program írja ki a feladat sorszámát!
 10. Írjuk ki a sorozatban található 5-tel osztható számokat!
 """
 
-
-jhz
