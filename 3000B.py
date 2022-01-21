@@ -13,4 +13,4 @@ Minden feladat előtt a program írja ki a feladat sorszámát!
 9. Írjuk ki az utolsó 19-cel osztható szám indexét!
 10. Írjuk ki a sorozatban található 5-tel osztható számokat!
 """
-
+print('2')
